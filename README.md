@@ -37,5 +37,8 @@ In this visualization all World Heritage Sites (except for one) are marked with 
 
 
 
+### Deliverables
+My deliverables are the [enriched JSON dataset](https://github.com/emilyalcu/enriching-unesco-world-heritage-list-with-wikidata/blob/bcd0d0d6b2cd6dc574e535028fe91903abdfd873/deliverables/FINAL_unesco_enriched_all.json), the [coordinates GEOJSON file](https://github.com/emilyalcu/enriching-unesco-world-heritage-list-with-wikidata/blob/bcd0d0d6b2cd6dc574e535028fe91903abdfd873/deliverables/coordinates.geojson), and the [area GEOJSON file](https://github.com/emilyalcu/enriching-unesco-world-heritage-list-with-wikidata/blob/bcd0d0d6b2cd6dc574e535028fe91903abdfd873/deliverables/area.geojson).
+
 ### Final Reflections
 If I had more time I would have liked to perfect my map visualization! I used mapbox's studio to save time, but I would have liked to use their API to get more particular about the design. I was really inspired by Calista and Natalie's work and I would have loved to be able to replicate the feature on their map where the textbox with metadata popped up when hovering over points. Beyond the visualization side of things, I was very pleased with my enriched dataset and I was really excited to learn more about SPARQL queries and OpenRefine. 
