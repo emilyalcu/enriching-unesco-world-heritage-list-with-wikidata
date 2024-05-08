@@ -28,7 +28,7 @@ These steps can also be found as comments in the Python script
 
 
 ### Create Visualizations with the Enriched Dataset!
-You can use the GEOJSON file to create interactive visualizations like [this](https://studio.mapbox.com/styles/emilyalcu/clvy7ogyq0a2t01pkeap98fpx/edit/#2.64/32.31/21.8) using mapbox and other visualization tools. 
+You can use the GEOJSON file to create interactive visualizations like [this](https://api.mapbox.com/styles/v1/emilyalcu/clvy7ogyq0a2t01pkeap98fpx.html?title=copy&access_token=pk.eyJ1IjoiZW1pbHlhbGN1IiwiYSI6ImNsdnNjbmUwYTB2cmkyanAxcmNzMXF5ZzcifQ.HTpqnUMPjYONle9G2-FxUA&zoomwheel=true&fresh=true#3.84/31.86/-103.32) using mapbox and other visualization tools. 
 
 In this visualization all World Heritage Sites (except for one) are marked with blue dots. Transparent purple dots represent the area of the site. The size of the dots shows the area of each site relative to the other sites. It is not perfectly matched to the correct sq meter area, but it is fairly close. 
 
