@@ -27,7 +27,7 @@ These steps can also be found as comments in the Python script
 6. Convert the coordinates and area JSON files into GEOJSON to use for visualizations
 
 
-### Create visualizations! 
+### Create Visualizations with the Enriched Dataset!
 You can use the GEOJSON file to create interactive visualizations like [this](https://studio.mapbox.com/styles/emilyalcu/clvy7ogyq0a2t01pkeap98fpx/edit/#2.64/32.31/21.8) using mapbox and other visualization tools. 
 
 In this visualization all World Heritage Sites (except for one) are marked with blue dots. Transparent purple dots represent the area of the site. The size of the dots shows the area of each site relative to the other sites. It is not perfectly matched to the correct sq meter area, but it is fairly close. 
